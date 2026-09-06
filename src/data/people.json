@@ -1,0 +1,1177 @@
+[
+  {
+    "id": "abhishek",
+    "name": "Abhishek",
+    "shortName": "Abhishek",
+    "role": "Teammate & Comrade",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "sharedMemory": "Honest conversations, banter, and standing together through project rollouts.",
+    "message": [
+      "Dear Abhishek,",
+      "Thank you from the core of my heart for the great camaraderie, the frank conversations, and the countless laughs we shared.",
+      "You were someone I could always speak with openly without any hesitation. Thank you for your reliability, your sharp humor, and for being such a fantastic companion through every twist and turn of our projects. It has been a true pleasure working alongside you, brother."
+    ]
+  },
+  {
+    "id": "ajay-khadke",
+    "name": "Ajay Khadke",
+    "shortName": "Ajay",
+    "role": "Senior & Key Stakeholder",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "specialQuote": "Learning from experienced seniors turns every project hurdle into a stepping stone of wisdom.",
+    "sharedMemory": "Your patient guidance, constructive senior advice, and collaborative stakeholder reviews.",
+    "message": [
+      "Respected Ajay Sir,",
+      "As I conclude this chapter, I would like to express my sincere gratitude, respect, and humble thanks to you for all your support, guidance, and encouragement as our senior and key stakeholder.",
+      "I have learned so much from your experience, composed leadership, and thoughtful approach to every challenge. Thank you for always being patient, providing clear direction, and guiding me with warmth and constructive advice throughout our initiatives.",
+      "It has been a true privilege working with you and learning from your vast experience. I wish you grand success, good health, and continued milestones ahead. Thank you sincerely for everything, Sir."
+    ]
+  },
+  {
+    "id": "ajay-pandey",
+    "name": "Ajay Pandey",
+    "shortName": "Ajay",
+    "role": "Senior Strategic Stakeholder",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "sharedMemory": "Your senior counsel, strategic alignment, and constant encouragement through critical project milestones.",
+    "message": [
+      "Respected Ajay Sir,",
+      "I would like to convey my heartfelt gratitude, respect, and humble thanks to you for your constant guidance, senior mentorship, and support throughout our journey together.",
+      "Your strategic insights, deep understanding, and patient encouragement made working alongside you a truly rewarding and enriching experience. Thank you for always believing in me and showing how true senior leadership guides with calm assurance.",
+      "Wishing you continued triumphs, good health, and prosperity in all your future endeavors. Thank you sincerely for your guidance, Sir!"
+    ],
+    "specialQuote": "Generous senior mentorship and steady stakeholder trust inspire our best work."
+  },
+  {
+    "id": "alby",
+    "name": "Alby",
+    "shortName": "Alby",
+    "role": "Colleague & Supporter",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "specialQuote": "Even across different projects, genuine support and presence build the strongest bonds.",
+    "sharedMemory": "Always being there with a helpful hand, positive attitude, and steady support whenever needed.",
+    "message": [
+      "Dear Alby,",
+      "You are such a good colleague. Even though we haven't worked together directly on the same projects, you were always there to support me whenever I needed it.",
+      "Having someone so approachable, reliable, and genuinely supportive around makes a huge difference in any team. I truly appreciate your readiness to help and your positive presence.",
+      "Thank you for always being there and for your kind support. Wishing you all the very best in your work and career ahead—let's definitely stay in touch!"
+    ]
+  },
+  {
+    "id": "among",
+    "name": "Among",
+    "shortName": "Among",
+    "role": "Teammate & Friend",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "sharedMemory": "Your quiet dedication, gentle demeanor, and sincere teamwork on shared tasks.",
+    "message": [
+      "Dear Among,",
+      "Sending you my deepest and most heartfelt thanks for being such a wonderful colleague and friend.",
+      "Your quiet dedication, gentle nature, and sincere attitude toward everyone made working with you an absolute joy. Thank you for your constant assistance, for your patience, and for all the pleasant moments we shared. I am truly grateful to have shared this chapter with you!"
+    ]
+  },
+  {
+    "id": "ananya",
+    "name": "Ananya",
+    "shortName": "Ananya",
+    "role": "Teammate",
+    "team": "Core Team",
+    "category": "Teammates & Friends",
+    "featured": false,
+    "specialQuote": "A great teammate brings positivity, collaboration, and shared strength to every sprint.",
+    "sharedMemory": "All our team collaborations, supportive discussions, and working through project deliverables together.",
+    "message": [
+      "Dear Ananya,",
+      "Thank you so much for being such a wonderful and dependable teammate throughout our time working together.",
+      "Your positive energy, readiness to help, and cooperative spirit made tackling challenges and project milestones so much easier and more enjoyable.",
+      "I truly appreciate your support and camaraderie. Wishing you tremendous success, career growth, and happiness in all your future endeavors!"
+    ]
+  },
+  {
+    "id": "anjali",
+    "name": "Anjali",
+    "shortName": "Anjali",
+    "role": "Colleague",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "specialQuote": "Warm collaboration and shared dedication make every workday memorable and rewarding.",
+    "sharedMemory": "Our day-to-day team syncs, collaborative discussions, and sharing laughter between tasks.",
+    "message": [
+      "Dear Anjali,",
+      "Thank you for being such a wonderful colleague throughout our time working together.",
+      "Your positivity, helpful nature, and collaborative spirit always made work more enjoyable and productive.",
+      "Wishing you tremendous success, happiness, and continued growth in everything you do ahead!"
+    ]
+  },
+  {
+    "id": "anshul",
+    "name": "Anshul",
+    "shortName": "Anshul",
+    "role": "Colleague & Teammate",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "sharedMemory": "Brainstorming together, cracking jokes between sprints, and tackling project requirements as a team.",
+    "message": [
+      "Dear Anshul,",
+      "Thank you so much for being such an awesome teammate and colleague throughout this journey.",
+      "Whether it was diving deep into project tasks or sharing a laugh during busy days, working with you was always lively and motivating. Your quick grasp of things and willingness to help out made a big difference.",
+      "Thank you for the great teamwork and camaraderie. Keep shining and aiming high, and don't hesitate to stay in touch!"
+    ]
+  },
+  {
+    "id": "arun",
+    "name": "Arun Nehi",
+    "shortName": "Arun",
+    "role": "Valued Colleague & Stakeholder Partner",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "specialQuote": "Reliable collaboration and shared commitment turn everyday milestones into lasting accomplishments.",
+    "sharedMemory": "Our project discussions, dependable coordination, and mutual support throughout demanding timelines.",
+    "message": [
+      "Dear Arun Nehi,",
+      "I would like to take this moment to genuinely thank you for your constant support, collaboration, and partnership during our time together.",
+      "Whether reviewing deliverables, addressing operational queries, or navigating project milestones, you always brought a practical, dependable, and cooperative approach that made our work together productive and positive.",
+      "Thank you for being such a reliable and valued partner in this chapter. I wish you grand success, continued achievements, and all the very best in your professional journey!"
+    ]
+  },
+  {
+    "id": "chacko",
+    "name": "Chacko",
+    "shortName": "Chacko",
+    "role": "Senior & Key Stakeholder",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "specialQuote": "Pragmatic leadership and patient senior guidance illuminate the path to excellence.",
+    "sharedMemory": "Strategic discussions, your valuable senior direction, and working together towards successful project milestones.",
+    "message": [
+      "Respected Chacko Sir,",
+      "As I conclude this chapter, I wish to convey my deepest respect, humble thanks, and sincere appreciation to you for your guidance, leadership, and support as our senior and key stakeholder.",
+      "Working with you has been a wonderful learning experience. I am deeply thankful for your pragmatic direction, your patient counsel during project reviews, and the encouragement you consistently extended to me.",
+      "Thank you very much, Sir, for your invaluable advice and faith in my work. I wish you great success, prosperity, and good health in all your future leadership milestones."
+    ]
+  },
+  {
+    "id": "darshan",
+    "name": "Darshan",
+    "shortName": "Darshan",
+    "role": "Old Colleague & Good Friend",
+    "team": "Earlier Chapter",
+    "category": "Old Colleagues",
+    "featured": false,
+    "sharedMemory": "All our intense project debates, honest arguments that made the outcome stronger, and lasting mutual respect.",
+    "message": [
+      "Dear Darshan,",
+      "Looking back at our earlier days together, yes, we definitely had our fair share of arguments and heated debates over work! But looking back, they were always good arguments driven by genuine care for the work, and they brought out the best in both of us.",
+      "I truly respect you for your honesty, dedication, and how we always sorted things out with mutual respect. Those shared battles and projects were a memorable chapter of my journey.",
+      "Let's make sure we definitely stay in touch, brother. Wishing you huge success and happiness in everything you do!"
+    ]
+  },
+  {
+    "id": "dinesh-dalvi",
+    "name": "Dinesh Dalvi",
+    "shortName": "Dinesh",
+    "role": "Oracle Platform Partner & Teammate",
+    "team": "Oracle Platform Team",
+    "category": "Teammates & Friends",
+    "featured": true,
+    "specialQuote": "Building complex platforms becomes a rewarding journey when you work alongside wonderful people.",
+    "sharedMemory": "Building the Oracle platform together, seamless coordination, and dedicated teamwork through every milestone.",
+    "message": [
+      "Dear Dinesh Dalvi,",
+      "You are a truly wonderful person, and it was such a memorable and very nice experience to build the Oracle platform together with you.",
+      "Your steady dedication, reliability, and collaborative mindset made tackling challenging platform goals smooth and enjoyable. I have immense respect for your work ethic and the great energy you always brought to the team.",
+      "Thank you for the wonderful partnership, the mutual trust, and all the shared accomplishments. Please let's stay in close touch, and I wish you boundless success in everything ahead!"
+    ]
+  },
+  {
+    "id": "dinesh-injapuram",
+    "name": "Dinesh Injapuram",
+    "shortName": "Dinesh I.",
+    "role": "Valued Teammate & Colleague",
+    "team": "Core Team",
+    "category": "Teammates & Friends",
+    "featured": true,
+    "specialQuote": "Great teamwork turns every sprint, deliverable, and challenge into a shared victory.",
+    "sharedMemory": "Reliable collaboration on shared team deliverables, daily teamwork, and great camaraderie.",
+    "message": [
+      "Dear Dinesh Injapuram,",
+      "Thank you so much for being such a dependable, positive, and wonderful teammate throughout our journey together.",
+      "Working alongside you on the team has been a true pleasure. I have always valued your collaborative mindset, dedication, and the supportive presence you bring to our team every day.",
+      "Thank you for the great teamwork, mutual support, and all the shared moments. Let's make sure we stay connected moving forward—wishing you immense success and happiness in everything you do!"
+    ]
+  },
+  {
+    "id": "janak",
+    "name": "Janak",
+    "shortName": "Janak",
+    "role": "IT Support",
+    "team": "IT & Infrastructure",
+    "category": "Technology",
+    "featured": false,
+    "specialQuote": "Behind every smooth working day is an IT hero who fixes issues before they become roadblocks.",
+    "sharedMemory": "Your quick resolution of IT requests, system setups, and always assisting with a cheerful attitude.",
+    "message": [
+      "Dear Janak,",
+      "A huge thank you to you for your constant IT support throughout my time here!",
+      "Whenever a technical issue or hardware problem arose, you were always right there with a quick solution and a positive attitude. Our day-to-day work was so much smoother because of your hard work.",
+      "Thank you for always being dependable and helpful. Wishing you all the very best in your career and life ahead!"
+    ]
+  },
+  {
+    "id": "jeetesh-nari",
+    "name": "Jeetesh Nair",
+    "shortName": "Jeetesh",
+    "role": "Oracle Platform Partner & Teammate",
+    "team": "Oracle Platform Team",
+    "category": "Teammates & Friends",
+    "featured": true,
+    "specialQuote": "The best part of building big platforms is the remarkable people you get to build them with.",
+    "sharedMemory": "Brainstorming platform milestones, shared laughs, and collaborating closely on building the Oracle platform.",
+    "message": [
+      "Dear Jeetesh,",
+      "You are a truly wonderful person, and it was such a great and memorable experience to build the Oracle platform with you.",
+      "Your thoughtfulness, collaborative approach, and unwavering support made a tremendous difference every step of the way. It was an honor working by your side through each milestone.",
+      "Thank you for your warmth, great camaraderie, and partnership on the platform. Please stay in touch, and I wish you all the very best in your journey ahead!"
+    ]
+  },
+  {
+    "id": "jeevan",
+    "name": "Jeevan",
+    "shortName": "Jeevan",
+    "role": "Best Friend & Brother",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "sharedMemory": "Grabbing quick snacks and hearty lunches together, solving blockers on the fly, and our genuine brotherly bond.",
+    "message": [
+      "To my closest friend and brother Jeevan,",
+      "Collaborating with you was easily one of the greatest highlights of my time here. You never treated me like just another project resource—you treated me like your own brother from day one.",
+      "A truly heartfelt thank you for all the delicious snacks and lunch treats we shared together! Taking those lunch breaks with you made even the most intense workdays feel like a breeze. You always stepped forward with practical solutions and cleared hurdles without hesitation.",
+      "Thank you for your warmth, your brotherhood, and for always having my back. Keep smiling, brother, and let's stay closely connected!"
+    ]
+  },
+  {
+    "id": "jignesh",
+    "name": "Jignesh",
+    "shortName": "Jignesh",
+    "role": "Best Friend & Brother",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "sharedMemory": "Quick snack runs, lively lunch catch-ups, and laughing through stressful project timelines like brothers.",
+    "message": [
+      "To my dear friend and brother Jignesh,",
+      "I cannot thank you enough for the warmth, humor, and true brotherhood you showed me throughout our journey together.",
+      "A big and special thank you for all the great snacks, treats, and lunch sessions we shared! Whenever work got overwhelming, sharing food and cracking jokes with you made everything feel manageable and fun. Your flexibility and collaborative mindset made every rollout a success.",
+      "You are genuinely one of the best human beings and a true brother to me. Keep rocking, brother, and stay in touch always!"
+    ]
+  },
+  {
+    "id": "jyoti",
+    "name": "Jyoti",
+    "shortName": "Jyoti",
+    "role": "Teammate & Friend",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "sharedMemory": "Your thoughtful check-ins, supportive encouragement during tight sprints, and kind presence.",
+    "message": [
+      "Dear Jyoti,",
+      "A deeply heartfelt thank you for your constant warmth, kindness, and encouragement throughout this chapter.",
+      "Your thoughtful nature and willingness to help whenever needed brought so much comfort to the entire team. Thank you for always listening, for sharing positive words during tough deliverables, and for being such a dependable teammate. I will genuinely miss our interactions and wish you all the happiness and success in the world!"
+    ]
+  },
+  {
+    "id": "karishma",
+    "name": "Karishma",
+    "shortName": "Karishma",
+    "role": "Best Friend & Stakeholder",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": true,
+    "specialQuote": "The best professional relationships are built on true friendship, mutual respect, and heartfelt laughter.",
+    "sharedMemory": "All our wonderful chats, honest advice, and navigating stakeholder discussions with warmth and understanding.",
+    "message": [
+      "To my wonderful best friend and stakeholder Karishma,",
+      "Having you not just as a trusted stakeholder but as a true best friend has made this journey so much brighter, meaningful, and enjoyable.",
+      "Thank you for your warmth, constant encouragement, and for always being someone I could rely on for both professional guidance and genuine personal conversations. Your support meant the world to me.",
+      "I will deeply miss our daily interactions and laughs. Let us definitely stay in touch outside of work!"
+    ]
+  },
+  {
+    "id": "kaushik",
+    "name": "Kaushik",
+    "shortName": "Kaushik",
+    "role": "Colleague & Close Friend",
+    "team": "Core Team",
+    "category": "Teammates & Friends",
+    "featured": true,
+    "specialQuote": "Real friends can argue passionately about work and still laugh together like brothers five minutes later.",
+    "sharedMemory": "All those intense debates, fiery disagreements on solutions, and catching up over laughs right after.",
+    "message": [
+      "Hey Kaushik,",
+      "We may have fought, argued, and debated endlessly over approaches, designs, and decisions—honestly, probably more than anyone else on the floor! But through every single one of those debates, you became one of my truest and closest friends.",
+      "I have always respected that our arguments came from a genuine place of passion and wanting to build things right. No matter how heated the discussions became, we always had each other's back when the dust settled.",
+      "You are a fantastic colleague and a genuine friend. Do not become a stranger now that I am moving on. Make sure we stay in touch, keep sharing updates, and catch up regularly outside of work!"
+    ]
+  },
+  {
+    "id": "keerthi",
+    "name": "Keerthi",
+    "shortName": "Keerthi",
+    "role": "My Little Bro & Old Teammate",
+    "team": "Earlier Chapter",
+    "category": "Old Colleagues",
+    "featured": false,
+    "sharedMemory": "Looking out for each other, your cheerful attitude, and sharing a genuine brotherly bond.",
+    "message": [
+      "Dear Keerthi,",
+      "You are not just an old colleague to me—you are my little bro!",
+      "Working with you in our earlier chapter was always lighthearted and special. Your cheerful attitude, willingness to listen, and the warmth you brought to our workdays made you feel like family.",
+      "I am so proud to see you growing in your career. Always keep learning, stay positive, and remember your big brother is always here for you. Keep in touch always, my little bro!"
+    ]
+  },
+  {
+    "id": "ketan",
+    "name": "Ketan",
+    "shortName": "Ketan",
+    "role": "IT Support",
+    "team": "IT & Infrastructure",
+    "category": "Technology",
+    "featured": false,
+    "specialQuote": "Dependable IT support is the quiet backbone that keeps the entire organization moving forward.",
+    "sharedMemory": "Your swift troubleshooting, machine configurations, and reliable assistance whenever needed.",
+    "message": [
+      "Dear Ketan,",
+      "Thank you so much for your outstanding IT support and dedication to keeping everything running seamlessly.",
+      "Your prompt responsiveness, technical know-how, and patient approach made tackling any IT issue completely stress-free.",
+      "I truly appreciate all your help over the years. Wishing you great success, new milestones, and happiness ahead!"
+    ]
+  },
+  {
+    "id": "kirthiraj",
+    "name": "Kirthiraj",
+    "shortName": "Kirthiraj",
+    "role": "Colleague",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "specialQuote": "Reliable teamwork and mutual respect turn everyday challenges into lasting accomplishments.",
+    "sharedMemory": "Our project discussions, dependable collaboration, and tackling deliverables together.",
+    "message": [
+      "Dear Kirthiraj,",
+      "Thank you so much for being such a dependable and supportive colleague during our time together.",
+      "Your calm approach, technical dedication, and cooperative attitude made working through project tasks smooth and fulfilling.",
+      "I truly appreciate your support and camaraderie. Wishing you all the best and great success in your journey ahead!"
+    ]
+  },
+  {
+    "id": "kushal",
+    "name": "Kushal",
+    "shortName": "Kushal",
+    "role": "Old Colleague & Friend",
+    "team": "Earlier Chapter",
+    "category": "Old Colleagues",
+    "featured": false,
+    "sharedMemory": "Lively discussions, shared project milestones, and fun moments inside and outside the workspace.",
+    "message": [
+      "Dear Kushal,",
+      "A huge and sincere thank you for the wonderful memories and camaraderie from our earlier chapter together.",
+      "You always brought great energy, sharpness, and a dependable spirit to our team. Working alongside you was both motivating and genuinely fun, and those shared milestones will always stay with me.",
+      "Thank you for being such an awesome colleague and friend. Let's make sure we stay connected as our journeys continue!"
+    ]
+  },
+  {
+    "id": "lopika",
+    "name": "Lopika",
+    "shortName": "Lopika",
+    "role": "Valued Stakeholder & Partner",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "specialQuote": "Trust and open communication make every stakeholder collaboration both productive and rewarding.",
+    "sharedMemory": "Our thoughtful discussions, proactive coordination, and your dependable partnership across key project milestones.",
+    "message": [
+      "Dear Lopika,",
+      "I want to express my sincere appreciation for being such a supportive and proactive stakeholder throughout our projects.",
+      "Working with you was always a great experience. Your constructive perspective, collaborative spirit, and prompt communication made solving challenges and delivering on goals seamless.",
+      "Thank you for the guidance, trust, and partnership you brought to every interaction. Wishing you endless growth, success, and fulfillment in your career ahead—stay in touch!"
+    ]
+  },
+  {
+    "id": "mallikarjun",
+    "name": "Mallikarjun",
+    "shortName": "Mallikarjun",
+    "role": "Old Colleague & Teammate",
+    "team": "Earlier Chapter",
+    "category": "Old Colleagues",
+    "featured": false,
+    "sharedMemory": "Focused execution, steady technical teamwork, and mutual respect on shared deliverables.",
+    "message": [
+      "Dear Mallikarjun,",
+      "Thank you so much for the memorable collaboration and solid teamwork we shared in our earlier chapter.",
+      "I have always appreciated your dedication, sincerity, and the calm, grounded manner in which you approached every task. It was a genuine pleasure working alongside you back then, and those shared experiences helped shape my journey.",
+      "Thank you for everything, Mallikarjun. Wishing you boundless success and prosperity in all your future endeavors!"
+    ]
+  },
+  {
+    "id": "manikanda",
+    "name": "Manikanda",
+    "shortName": "Manikanda",
+    "role": "Colleague & Teammate",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "sharedMemory": "Productive teamwork, great camaraderie, and having reliable support during key project milestones.",
+    "message": [
+      "Dear Manikanda,",
+      "Thank you so much for the fantastic collaboration, teamwork, and positive energy you always brought to the floor.",
+      "It was an absolute pleasure working with you. Your dedication, helpful attitude, and easygoing nature made collaborating on tasks effortless and enjoyable.",
+      "Thank you for being such a solid teammate and friend throughout this chapter. Wishing you immense growth and success in everything you pursue—keep in touch!"
+    ]
+  },
+  {
+    "id": "manu",
+    "name": "Manu",
+    "shortName": "Manu",
+    "role": "Old Colleague & Friend",
+    "team": "Earlier Chapter",
+    "category": "Old Colleagues",
+    "featured": false,
+    "sharedMemory": "Brainstorming sessions, solving tricky roadblocks, and candid friendly catch-ups over tea.",
+    "message": [
+      "Dear Manu,",
+      "A truly warm and sincere thank you for all the great memories, teamwork, and support from our earlier days together.",
+      "You were always dependable, easy to talk to, and fantastic to collaborate with through every project hurdle. The laughs we shared and the collective effort we put in back then will always be fondly remembered.",
+      "Thank you for being such a wonderful colleague and friend. Wishing you continuous growth, good health, and happiness ahead!"
+    ]
+  },
+  {
+    "id": "meenakshi",
+    "name": "Meenakshi",
+    "shortName": "Meenakshi",
+    "role": "Colleague & Teammate",
+    "team": "Core Team",
+    "category": "Teammates & Friends",
+    "featured": false,
+    "sharedMemory": "Our calm coordination, and your immense patience in tolerating all my noise and jokes every single day.",
+    "message": [
+      "Dear Meenakshi,",
+      "First and foremost, a very big and special thank you for tolerating all my noise and silly jokes day in and day out! I know I could be loud and distracting at times, but you always handled it with your trademark calm smile and patience.",
+      "It has been an absolute pleasure working alongside you throughout this chapter. I have always admired your composure, patience, and the warmth you bring into every conversation.",
+      "Thank you for your kind collaboration and constant support. Please let's stay in touch as we move ahead. Wishing you all the happiness, growth, and success in everything you pursue!"
+    ]
+  },
+  {
+    "id": "meethali",
+    "name": "Meethali",
+    "shortName": "Meethali",
+    "role": "Valued Stakeholder & Partner",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "specialQuote": "Great stakeholder partnerships turn complex requirements into smooth and successful deliveries.",
+    "sharedMemory": "Collaborating on stakeholder reviews, clear alignment discussions, and your steady cooperation and support.",
+    "message": [
+      "Dear Meethali,",
+      "Thank you so much for being such a wonderful stakeholder throughout our work together. Your clarity, constructive feedback, and prompt collaboration made complex initiatives so much smoother to navigate and deliver.",
+      "It was always a pleasure working alongside you—your approachable demeanor, professionalism, and readiness to align on solutions helped our teams achieve great results together.",
+      "I truly appreciate your trust and partnership throughout this journey. Wishing you continued success, impactful projects, and the very best in all your future endeavors!"
+    ]
+  },
+  {
+    "id": "mousumi",
+    "name": "Mousumi",
+    "shortName": "Mousumi",
+    "role": "Business & Domain Stakeholder",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "sharedMemory": "Patient domain walkthroughs and your encouraging feedback on complex requirements.",
+    "message": [
+      "Dear Mousumi,",
+      "Your deep domain mastery and patience in clarifying complex requirements made you one of the standout stakeholders I have ever worked with.",
+      "You always gave us clarity, respected our perspective, and backed us with complete trust. Thank you for your exceptional support and for being such an admirable stakeholder to work with."
+    ]
+  },
+  {
+    "id": "narendra",
+    "name": "Narendra",
+    "shortName": "Narendra",
+    "role": "Former CEO & Executive Mentor",
+    "team": "Executive Leadership",
+    "category": "Leadership",
+    "featured": true,
+    "specialQuote": "Generosity in leadership is opening doors for people to grow, even when it means watching them move forward.",
+    "sharedMemory": "Your gracious support, encouragement, and generosity in providing me with the NOC for my transition to the bank.",
+    "message": [
+      "Respected Narendra Sir,",
+      "I am writing this with the deepest respect and most heartfelt gratitude for the pivotal role you have played in my professional journey.",
+      "When I was preparing to take the next big step in my career to join the bank, you graciously and promptly granted me the NOC along with your genuine blessings. That single decision and your generosity opened a life-changing door for me, and I will always hold your support in the highest regard.",
+      "Your vision, leadership, and personal kindness toward your team members have left an enduring impression on me. Thank you for believing in me and for facilitating my growth with such warmth and grace.",
+      "I wish you continued health, prosperity, and boundless success in all your endeavors."
+    ]
+  },
+  {
+    "id": "narendra-rao",
+    "name": "Narendra Rao",
+    "shortName": "Narendra",
+    "role": "Respected Colleague & Guide",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "sharedMemory": "Constructive discussions, your thoughtful guidance, and mutual respect on shared initiatives.",
+    "message": [
+      "Dear Narendra Rao,",
+      "I want to express my genuine gratitude and heartfelt appreciation for all your support, advice, and collaboration during our time together.",
+      "Your experience, balanced perspective, and polite, reassuring demeanor always brought clarity to our discussions and project initiatives. Working with you has been an enriching experience.",
+      "Thank you for your kindness, professional guidance, and constant encouragement. Wishing you continued success, good health, and fulfillment always!"
+    ]
+  },
+  {
+    "id": "neethu",
+    "name": "Neethu",
+    "shortName": "Neethu",
+    "role": "Key Stakeholder",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "specialQuote": "Thoughtful stakeholder collaboration turns complex challenges into seamless victories.",
+    "sharedMemory": "Our cross-functional alignments, clear requirements discussions, and shared sense of accomplishment.",
+    "message": [
+      "Dear Neethu,",
+      "Thank you so much for your exceptional support, partnership, and positive energy as a key stakeholder.",
+      "Your thoughtful inputs, prompt feedback, and supportive attitude made every interaction smooth, constructive, and enjoyable.",
+      "It was a genuine privilege collaborating with you. Wishing you abundant success, fulfillment, and happiness in all your endeavors!"
+    ]
+  },
+  {
+    "id": "nihal",
+    "name": "Nihal",
+    "shortName": "Nihal",
+    "role": "My Brother & Best Person in Bank",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": true,
+    "specialQuote": "The best kind of colleagues are the ones who make you feel like family the moment you step in.",
+    "sharedMemory": "Every single laugh, spontaneous banter, and having someone who genuinely feels like a real brother every day.",
+    "message": [
+      "Dear Nihal,",
+      "You are easily the best person in the entire bank, and to me, you are truly like my own brother.",
+      "You brought so much life, genuine warmth, and laughter into my work life every single day. Being around you made even the most difficult days fun because of your golden heart and quick humor.",
+      "Thank you for always having my back, for the unmatched camaraderie, and for making me feel like I have a real brother here. Keep being the wonderful person you are, Nihal—we will always stay connected!"
+    ]
+  },
+  {
+    "id": "nilesh",
+    "name": "Nilesh Mehta",
+    "shortName": "Nilesh",
+    "role": "Stakeholder",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "sharedMemory": "All our memorable lunch table conversations, evening snacks, and your guidance through every challenge.",
+    "message": [
+      "Dear Nilesh Mehta,",
+      "Working with you has been an absolute privilege, and having you as a trusted stakeholder has meant so much to me.",
+      "Thank you so much for all the wonderful lunches and tea-time snacks we shared! Those food breaks and honest conversations gave me so much energy and perspective. Your composure, high standards, and unwavering confidence in me gave me the strength to push through every demanding release.",
+      "Thank you for your constant support, collaboration, and valuable guidance. I will genuinely miss our lunches together—let's definitely continue our catch-ups!"
+    ]
+  },
+  {
+    "id": "niranjan",
+    "name": "Niranjan",
+    "shortName": "Niranjan",
+    "role": "VBMS Team",
+    "team": "VBMS Team",
+    "category": "Technology",
+    "featured": false,
+    "specialQuote": "Strong engineering collaboration and dedicated team spirit make every release successful.",
+    "sharedMemory": "Collaborating with you on VBMS initiatives, technical troubleshooting, and our shared team syncs.",
+    "message": [
+      "Dear Niranjan,",
+      "Working alongside you in the VBMS Team has been an absolute pleasure. Your technical dedication, prompt support, and willingness to dive into complex challenges made a tremendous difference to our deliverables.",
+      "Thank you for your teamwork, consistency, and positive energy across every release. Wishing you outstanding success and continued growth in all your upcoming VBMS milestones!"
+    ]
+  },
+  {
+    "id": "nitin-more",
+    "name": "Nitin More",
+    "shortName": "Nitin",
+    "role": "Senior Mentor & Brother",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": true,
+    "specialQuote": "A true senior and mentor does not just show the way—they walk alongside you and open life-changing doors.",
+    "sharedMemory": "Guiding me into the bank, your life-changing career mentorship, patient brotherly advice, and sharing every milestone together.",
+    "message": [
+      "Respected Nitin,",
+      "As I look back on my time here, words cannot fully express the depth of my humble gratitude and respect for you. You are not only my senior and mentor, but someone I hold in the highest regard as a brother.",
+      "I will always remain indebted and thankful to you from the bottom of my heart for believing in me, guiding me, and playing a crucial, life-changing role in helping me secure this opportunity at the bank. That guidance transformed my entire career trajectory, and every milestone I achieve will always carry the mark of your mentorship.",
+      "Thank you so much for taking care of me with such patience, sharing your rich experience, and always standing by me with wisdom, reassurance, and brotherly affection. I will forever cherish your guidance and support. Thank you sincerely for everything, Nitin!"
+    ]
+  },
+  {
+    "id": "pooja",
+    "name": "Pooja",
+    "shortName": "Pooja",
+    "role": "Cross-Functional Stakeholder",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "sharedMemory": "Warm, constructive coordination sessions that resolved blockers in minutes.",
+    "message": [
+      "Dear Pooja,",
+      "You have been an exemplary stakeholder to collaborate with. Your warmth, rapid coordination, and constructive approach brought so much ease and clarity to our interactions.",
+      "Thank you for your continuous support, for always appreciating the team's efforts, and for being such a delightful and dependable stakeholder partner!"
+    ]
+  },
+  {
+    "id": "pravin",
+    "name": "Pravin",
+    "shortName": "Pravin",
+    "role": "Colleague & Teammate",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "sharedMemory": "Coordinating smoothly during demanding project sprints and your positive, dependable teamwork.",
+    "message": [
+      "Dear Pravin,",
+      "I want to take a moment to say a big and heartfelt thank you for all the support, collaboration, and great moments we shared.",
+      "You were always so dependable, calm, and ready to jump in whenever there was work to be done or a challenge to tackle. Working alongside you made difficult deliverables so much easier to handle.",
+      "Thank you for being such a wonderful colleague and teammate. Wishing you all the success and happiness ahead, and let's definitely stay in touch!"
+    ]
+  },
+  {
+    "id": "raghu",
+    "name": "Raghu",
+    "shortName": "Raghu",
+    "role": "My Brother and Partner in crime",
+    "team": "Earlier Chapter",
+    "category": "Old Colleagues",
+    "featured": false,
+    "sharedMemory": "All our banter, laughter, and working together on earlier milestones.",
+    "message": [
+      "Dei motta Raghu!",
+      "How could I complete my farewell notes without a special shout-out to you! Looking back at our earlier chapter together, collaborating with you was always full of life, laughs, and pure banter.",
+      "Beneath all the pulling of legs, your dedication and solid teamwork on shared tasks made every hurdle easier to cross. Thank you for the great memories and the genuine bond we built.",
+      "Keep shining, keep smiling, and don't disappear—let's definitely catch up soon!"
+    ]
+  },
+  {
+    "id": "reshma-pasare",
+    "name": "Reshma Pasare",
+    "shortName": "Reshma",
+    "role": "Best Friend & Key Stakeholder",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": true,
+    "specialQuote": "A collaborative spirit combined with genuine warmth makes work feel effortless and inspiring.",
+    "sharedMemory": "Our engaging stakeholder sessions, cheerful conversations, and supporting each other through every sprint.",
+    "message": [
+      "To my dearest friend and key stakeholder Reshma,",
+      "Working with you has been one of the absolute highlights of my time here. You embody the perfect balance of a top-tier stakeholder and a caring, supportive best friend.",
+      "Thank you for always bringing clarity, positivity, and genuine encouragement to every interaction. Your trust and partnership helped me deliver with confidence.",
+      "I will miss our lively catch-ups and teamwork immensely. Let us make sure we stay connected regularly!"
+    ]
+  },
+  {
+    "id": "ritesh",
+    "name": "Ritesh",
+    "shortName": "Ritesh",
+    "role": "Close Friend",
+    "team": "Core Team",
+    "category": "Teammates & Friends",
+    "featured": false,
+    "sharedMemory": "Pragmatic problem-solving sessions and your balanced, objective perspectives.",
+    "message": [
+      "Dear Ritesh,",
+      "Thank you for being such a supportive and sensible teammate. I always appreciated your clarity of thought, practical mindset, and calm demeanor during team discussions.",
+      "You made our shared work smooth and constructive. Let's keep our connection alive—wishing you immense success, and please stay in touch!"
+    ]
+  },
+  {
+    "id": "rohan-lahori",
+    "name": "Rohan Lahori",
+    "shortName": "Rohan",
+    "role": "Best Friend & Brother",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "sharedMemory": "All our shared lunches, tea-break snacks, candid brotherhood chats, and tackling demanding deliverables together.",
+    "message": [
+      "To my dearest friend and brother Rohan Lahori,",
+      "Working with you never felt like just professional stakeholder coordination—you quickly became one of my absolute best friends and a true brother here.",
+      "A huge and very special thank you for all the delicious snacks, team lunches, and tea sessions we enjoyed together! Those food breaks were the best stress-busters during crazy delivery sprints. Beyond that, your proactive support and constant positive attitude made every single project run smoothly.",
+      "Thank you for the wonderful bond, brother. You are truly special to me—let's make sure we keep meeting up for lunches and never lose touch!"
+    ]
+  },
+  {
+    "id": "rohan-tawade",
+    "name": "Rohan Tawade",
+    "shortName": "Rohan",
+    "role": "Colleague",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "specialQuote": "Every project milestone is an opportunity to learn, collaborate, and build lasting bonds.",
+    "sharedMemory": "Working together on team initiatives, engaging conversations, and shared project progress.",
+    "message": [
+      "Dear Rohan Tawade,",
+      "Thank you so much for being a wonderful and valued colleague during our journey together.",
+      "Your teamwork, reliable support, and approachable attitude made our collaboration smooth, positive, and productive.",
+      "Wishing you abundant success, happiness, and exciting achievements in all your future endeavors!"
+    ]
+  },
+  {
+    "id": "rupesh",
+    "name": "Rupesh",
+    "shortName": "Rupesh",
+    "role": "Colleague",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "specialQuote": "Consistent effort, good humor, and shared purpose make great colleagues and great teams.",
+    "sharedMemory": "Our team check-ins, collaborative efforts, and navigating project deadlines together.",
+    "message": [
+      "Dear Rupesh,",
+      "A genuine thank you to you for being such a great colleague throughout this chapter.",
+      "I always appreciated your willingness to help, your steady demeanor, and the positive energy you brought to our team discussions.",
+      "Wishing you great milestones, success, and all the best in your career and life ahead!"
+    ]
+  },
+  {
+    "id": "sagar",
+    "name": "Sagar",
+    "shortName": "Sagar",
+    "role": "Teammate & Friend",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "sharedMemory": "Shared laughs, genuine conversations, and your humble, dedicated teamwork.",
+    "message": [
+      "Dear Sagar,",
+      "Thank you from the bottom of my heart for being such a sincere, humble, and dedicated teammate.",
+      "You always approached your work with complete honesty and treated everyone around you with so much respect. The laughs we shared, the support you extended, and your easygoing nature made our chapter truly memorable. Thank you for everything, Sagar—I am deeply grateful for our friendship."
+    ]
+  },
+  {
+    "id": "sanket-shah",
+    "name": "Sanket Shah",
+    "shortName": "Sanket",
+    "role": "Key IT Support",
+    "team": "IT & Infrastructure",
+    "category": "Technology",
+    "featured": false,
+    "specialQuote": "Great IT professionals do not just solve problems—they create confidence and peace of mind.",
+    "sharedMemory": "Rapid resolution of infrastructure queries, workstation setups, and your proactive support.",
+    "message": [
+      "Dear Sanket Shah,",
+      "I want to extend my sincere gratitude to you for providing stellar, key IT support whenever needed.",
+      "Your proactive assistance, dedication, and cheerful readiness to solve complex IT challenges made working here so much easier and reliable.",
+      "Thank you for your hard work and support. Wishing you all the very best, career growth, and immense success ahead!"
+    ]
+  },
+  {
+    "id": "santhosh",
+    "name": "Santhosh",
+    "shortName": "Santhosh",
+    "role": "Old Colleague & Teammate",
+    "team": "Earlier Chapter",
+    "category": "Old Colleagues",
+    "featured": false,
+    "sharedMemory": "Dependable coordination during earlier deadlines and your ever-supportive, patient attitude.",
+    "message": [
+      "Dear Santhosh,",
+      "I want to express my genuine gratitude for all the support, camaraderie, and great work we shared in our earlier chapter.",
+      "You were always someone who could be counted on, bringing calm reassurance and a helping hand whenever challenges arose. I truly cherish the time we worked together.",
+      "Thank you for being such a wonderful colleague, Santhosh. Wishing you the best of success, peace, and good health always!"
+    ]
+  },
+  {
+    "id": "saranya",
+    "name": "Saranya",
+    "shortName": "Saranya",
+    "role": "Best Friend",
+    "team": "Teammates & Friends",
+    "category": "Teammates & Friends",
+    "featured": false,
+    "specialQuote": "A true friend turns every hectic workday into a brighter, happier adventure.",
+    "sharedMemory": "Our fun lunch breaks, heartfelt chats, shared laughs, and uplifting each other throughout the day.",
+    "message": [
+      "To my wonderful best friend Saranya,",
+      "Thank you for being such an incredible friend and a beacon of positivity and kindness throughout my journey here.",
+      "Whether we were sharing laughs, venting about a chaotic day, or cheering each other on, your warmth and authentic friendship always brought a smile to my face.",
+      "Thank you for all the precious memories and great energy you shared with me. Let us definitely keep this friendship going strong for years to come!"
+    ]
+  },
+  {
+    "id": "shalabh",
+    "name": "Shalabh",
+    "shortName": "Shalabh",
+    "role": "Key Stakeholder & Advisor",
+    "team": "Leadership & Advisory",
+    "category": "Stakeholders",
+    "featured": true,
+    "specialQuote": "Visionary advisory and collaborative workshops lay the groundwork for transformative project success.",
+    "sharedMemory": "It was a wonderful memory to work with you during the workshop of AdminP2P.",
+    "message": [
+      "Dear Shalabh,",
+      "I want to express my deepest gratitude for your invaluable guidance, leadership, and partnership as a key stakeholder and advisor.",
+      "It was a wonderful memory to work with you during the workshop of AdminP2P. Your clarity of thought, strategic perspective, and constructive inputs during that workshop and throughout our collaboration set a high benchmark and inspired our entire execution.",
+      "Thank you for your mentorship and unwavering support. Wishing you tremendous success, good health, and continued milestones in all your leadership endeavors!"
+    ]
+  },
+  {
+    "id": "sharath",
+    "name": "Sharath",
+    "shortName": "Sharath",
+    "role": "Brother & Tech Partner",
+    "team": "Core Team",
+    "category": "Teammates & Friends",
+    "featured": false,
+    "sharedMemory": "Cracking complex tech problems together, sharing brotherly chats, and having each other's back.",
+    "message": [
+      "Thanks da thambi!",
+      "Writing this not just to a colleague, but directly to a younger brother. Working alongside you has been one of the best parts of this journey. Whenever there was a technical bottleneck or tough deliverable, you were right there beside me, ready to take it on.",
+      "You have incredible talent, sharp technical instincts, and a good heart. Keep learning, keep pushing your boundaries, and reach great heights. Remember your elder brother is always just a phone call away no matter where I am. Stay blessed da thambi, and keep in touch always!"
+    ]
+  },
+  {
+    "id": "showlung",
+    "name": "Showlung",
+    "shortName": "Showlung",
+    "role": "Old Colleague & Teammate",
+    "team": "Earlier Chapter",
+    "category": "Old Colleagues",
+    "featured": false,
+    "sharedMemory": "Working together through earlier project releases and your unique, positive energy.",
+    "message": [
+      "Dear Showlung,",
+      "Sending you my warmest thanks and appreciation for the time we shared as colleagues.",
+      "Working with you in our earlier chapter was always a great experience—your distinct perspective, helpful nature, and collaborative spirit made our team stronger and workdays much brighter.",
+      "Thank you for being such a valued teammate and an important part of my journey. Wishing you great achievements and happiness ahead!"
+    ]
+  },
+  {
+    "id": "shraddha",
+    "name": "Shraddha",
+    "shortName": "Shraddha",
+    "role": "Project & Governance Stakeholder",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "sharedMemory": "Structured milestone tracking and clear, frictionless alignment on priorities.",
+    "message": [
+      "Dear Shraddha,",
+      "Thank you for being such an extraordinary stakeholder. Your structured guidance, timely follow-ups, and encouraging attitude ensured that we always delivered with confidence and zero friction.",
+      "You truly set the benchmark for how stakeholder relationships should be built. Thank you for your partnership, understanding, and steadfast support!"
+    ]
+  },
+  {
+    "id": "shrikant",
+    "name": "Shrikant",
+    "shortName": "Shrikant",
+    "role": "Best Friend & Brother",
+    "team": "Core Team",
+    "category": "Teammates & Friends",
+    "featured": true,
+    "specialQuote": "True brotherhood is when work feels like camaraderie and challenges turn into lifelong memories.",
+    "sharedMemory": "All our brotherly conversations, candid chats, mutual support through tough deadlines, and great times together.",
+    "message": [
+      "To my dear brother and best friend Shrikant,",
+      "Words fall short of expressing how much your friendship and brotherly support have meant to me throughout this chapter.",
+      "From our endless talks, jokes, and honest check-ins to backing each other up whenever things got demanding, you have been a rock-solid friend and brother every single day.",
+      "Thank you for being someone I could always count on. This is not a goodbye at all—our brotherhood and friendship continue strong beyond this workplace!"
+    ]
+  },
+  {
+    "id": "shruthi",
+    "name": "Shruthi",
+    "shortName": "Shruthi",
+    "role": "Product & Functional Stakeholder",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "sharedMemory": "Thoughtful requirement discussions where business goals and engineering realities met seamlessly.",
+    "message": [
+      "Dear Shruthi,",
+      "You are without doubt one of the finest stakeholders I have worked alongside. Your unique ability to balance ambitious business goals with genuine empathy for technical timelines made every delivery smooth and harmonious.",
+      "Thank you for your clarity, your patience, and the continuous trust you placed in us. Working with you was truly an exceptional experience."
+    ]
+  },
+  {
+    "id": "sonal",
+    "name": "Sonal",
+    "shortName": "Sonal",
+    "role": "Stakeholder & Process Partner",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "sharedMemory": "Meticulous planning reviews and smooth coordination across stakeholder touchpoints.",
+    "message": [
+      "Dear Sonal,",
+      "Collaborating with you has been a textbook example of great stakeholder partnership. Your organized approach, well-defined expectations, and gracious cooperation made every milestone a shared success.",
+      "Thank you for being one of the best stakeholders throughout this chapter. Your professionalism and clear guidance were always deeply valued."
+    ]
+  },
+  {
+    "id": "sudhir",
+    "name": "Sudhir",
+    "shortName": "Sudhir",
+    "role": "Oracle Platform Partner & Teammate",
+    "team": "Oracle Platform Team",
+    "category": "Teammates & Friends",
+    "featured": true,
+    "specialQuote": "Great systems are built not just with code, but with wonderful teammates who bring passion every day.",
+    "sharedMemory": "Building the Oracle platform together, deep-dive technical discussions, and great camaraderie throughout the journey.",
+    "message": [
+      "Dear Sudhir,",
+      "You are such a wonderful person, and it was an absolute pleasure and a very nice experience to build the Oracle platform alongside you.",
+      "I always deeply appreciated your positive spirit, sharp insights, and dedication throughout the project. Working with you made navigating the complexities of the platform both rewarding and genuinely fun.",
+      "Thank you for being such a fantastic colleague and friend throughout this chapter. Let's make sure we stay connected as we move forward—wishing you immense happiness and success ahead!"
+    ]
+  },
+  {
+    "id": "suraj",
+    "name": "Suraj",
+    "shortName": "Suraj",
+    "role": "Teammate & Friend",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "sharedMemory": "Your infectious positivity, lively conversations, and ready-to-help spirit every single morning.",
+    "message": [
+      "Dear Suraj,",
+      "A truly heartfelt thank you for all the energy, enthusiasm, and positivity you brought into our team every single day.",
+      "Whenever things became stressful or demanding, your upbeat attitude and bright smile were an instant breath of fresh air. Thank you for your unconditional support, for stepping up whenever anyone needed a hand, and for making work feel so much lighter. It was an honor working with you!"
+    ]
+  },
+  {
+    "id": "suryakanth",
+    "name": "Suryakanth",
+    "shortName": "Suryakanth",
+    "role": "My Brother",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "sharedMemory": "Standing shoulder to shoulder through every challenge, sharing brotherhood, and always having each other's back.",
+    "message": [
+      "Dear Suryakanth,",
+      "You are my brother, and I want you to always remember: no matter where I go or what happens, I am with you always.",
+      "Whenever things were tough or stressful, your calm composure, wisdom, and grounded presence gave me immense strength. Thank you for always listening patiently, giving sound advice, and standing firmly beside me through thick and thin.",
+      "You are family to me, Suryakanth. Whatever you need, whenever you need it, your brother is right here with you!"
+    ]
+  },
+  {
+    "id": "swapnali",
+    "name": "Swapnali",
+    "shortName": "Swapnali",
+    "role": "Business Stakeholder & Mentor",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": true,
+    "specialQuote": "Great projects succeed when stakeholders bring crystal clarity, decisive leadership, and true partnership.",
+    "sharedMemory": "Smooth requirement sign-offs, your swift decisive guidance, and your relentless effort that shaped this application.",
+    "message": [
+      "Thanks Akka!",
+      "You are hands-down the best stakeholder I have ever worked with throughout my career. The reason this application and our deliveries have reached this top level today is purely because of your immense effort, sharp vision, and dedication.",
+      "Working with you was always refreshing because you brought crystal-clear direction and backed the team with total trust. Thank you for your guidance, your unwavering support, and for always being an inspiring presence. Truly grateful for everything, Akka!"
+    ]
+  },
+  {
+    "id": "swapnil-bhagat",
+    "name": "Swapnil Bhagat",
+    "shortName": "Swapnil",
+    "role": "Advisor",
+    "team": "Advisory & Stakeholders",
+    "category": "Stakeholders",
+    "featured": true,
+    "specialQuote": "True advisory brings strategic foresight, steady guidance, and empowered teams.",
+    "sharedMemory": "Strategic advisory discussions, thoughtful guidance, and sharing perspective on complex initiatives.",
+    "message": [
+      "Dear Swapnil Bhagat,",
+      "I want to express my deepest gratitude to you for your guidance, wisdom, and steadfast support as an advisor.",
+      "Your strategic counsel, wealth of experience, and reassuring presence during critical decisions gave us immense confidence and clarity.",
+      "Thank you for being a trusted advisor and mentor throughout this journey. Wishing you continued success, good health, and prosperous milestones ahead!"
+    ]
+  },
+  {
+    "id": "swapnil-govind",
+    "name": "Swapnil Govind",
+    "shortName": "Swapnil",
+    "role": "Key IT Support",
+    "team": "IT & Infrastructure",
+    "category": "Technology",
+    "featured": false,
+    "specialQuote": "Excellence in IT support means swift action, technical mastery, and unmatched reliability.",
+    "sharedMemory": "Critical system resolutions, reliable IT coordination, and always stepping up in time-sensitive situations.",
+    "message": [
+      "Dear Swapnil Govind,",
+      "A heartfelt thank you for your exceptional and key IT support throughout my journey here!",
+      "Your deep technical troubleshooting skills, rapid response times, and commitment to ensuring everything ran without a hitch made a real difference to our team every single day.",
+      "Thank you for your dependability and great teamwork. Wishing you massive success and flourishing opportunities in your career!"
+    ]
+  },
+  {
+    "id": "swapnil-rewale",
+    "name": "Swapnil Rewale",
+    "shortName": "Swapnil",
+    "role": "Teammate & Companion",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "sharedMemory": "Our deep discussions on work, life, and always having someone reliable to count on.",
+    "message": [
+      "Dear Swapnil,",
+      "I want to send you my most heartfelt and sincere thanks. Working with you has been a genuine privilege and one of the brightest parts of my time here.",
+      "Thank you for always being someone I could rely on without a second thought. Your calm nature, your willingness to help, and the honest conversations we shared meant the world to me. Thank you for being such a wonderful human being and an amazing teammate. Keep shining, brother!"
+    ]
+  },
+  {
+    "id": "tousif",
+    "name": "Tousif",
+    "shortName": "Tousif",
+    "role": "Colleague & Teammate",
+    "team": "Core Team",
+    "category": "Teammates & Friends",
+    "featured": false,
+    "sharedMemory": "Writing sharp, effective emails together and reaching out directly to people to get blockers cleared.",
+    "message": [
+      "Dear Tousif,",
+      "Thank you so much for being such a dependable teammate and guide. A special thanks to you for always helping me craft crisp, punchy, and effective emails whenever we needed quick action!",
+      "I truly learned a lot watching how effortlessly you would approach people directly, navigate conversations, and get the work done without delays. Your positive energy and problem-solving drive made demanding days so much smoother.",
+      "Thank you for your constant support and camaraderie. Let's make sure we stay connected moving forward!"
+    ]
+  },
+  {
+    "id": "urmi",
+    "name": "Urmi",
+    "shortName": "Urmi",
+    "role": "Key Stakeholder",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "specialQuote": "Clear vision, open communication, and steady leadership bring out the best in every initiative.",
+    "sharedMemory": "Strategic planning discussions, requirements alignment, and collaborative stakeholder reviews.",
+    "message": [
+      "Dear Urmi,",
+      "Thank you so much for being such an exceptional key stakeholder throughout our time working together.",
+      "Your sharp insights, prompt guidance, and balanced decision-making made our coordination smooth, productive, and impactful across every milestone.",
+      "I truly appreciate the trust and cooperation you extended to me. Wishing you grand achievements, happiness, and all the very best in your professional journey!"
+    ]
+  },
+  {
+    "id": "venkat",
+    "name": "Venkat",
+    "shortName": "Venkat",
+    "role": "Senior Teammate & Mentor",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "sharedMemory": "Your thoughtful advice, words of encouragement, and caring attitude toward everyone.",
+    "message": [
+      "Dear Venkat,",
+      "I want to express my most heartfelt gratitude to you for your warmth, guidance, and genuine kindness.",
+      "You have a rare quality of making everyone around you feel valued, supported, and heard. Thank you for checking in on me, for offering wise perspectives when things were complicated, and for always being a pillar of goodwill on our team. Your support has meant more to me than words can say. Thank you so much!"
+    ]
+  },
+  {
+    "id": "vidhatha",
+    "name": "Vidhatha",
+    "shortName": "Vidhatha",
+    "role": "Colleague & Teammate",
+    "team": "Core Team",
+    "category": "Colleagues",
+    "featured": false,
+    "sharedMemory": "Thoughtful discussions, smooth coordination on shared deliverables, and your positive presence.",
+    "message": [
+      "Dear Vidhatha,",
+      "A very sincere and warm thank you for all the cooperation and support you extended throughout our time working together.",
+      "I truly appreciated your calm approach, clear communication, and the dedication you brought into every discussion and milestone. You were always a pleasure to collaborate with.",
+      "Thank you for making our shared journey both productive and pleasant. Wishing you the absolute best in all your future endeavors, and let's stay connected!"
+    ]
+  },
+  {
+    "id": "vijay-kumar",
+    "name": "Vijay Kumar",
+    "shortName": "Vijay",
+    "role": "Functional Head & Senior Leader",
+    "team": "Leadership",
+    "category": "Leadership",
+    "featured": true,
+    "specialQuote": "True leadership is demonstrated through humble service, patient mentorship, and opening doors for others.",
+    "sharedMemory": "Giving me the valuable opportunity to work in your team, along with your patient guidance, wisdom, and leadership.",
+    "message": [
+      "Respected Vijay Sir,",
+      "As I step into my next chapter, I want to take this opportunity to convey my deepest respect, heartfelt gratitude, and humble thanks to you for giving me the invaluable opportunity to work in your team.",
+      "Working under your esteemed leadership and vision has been a tremendous privilege and an enriching learning journey for me. I am truly grateful for the trust and faith you placed in me, for your patient guidance, and for the wisdom you shared that helped me grow both professionally and personally.",
+      "Thank you so much, Sir, for your mentorship, continuous support, and for always inspiring us with your exemplary leadership. I pray for your continued good health, happiness, and grand success in all your future endeavors. Please keep me in your blessings."
+    ]
+  },
+  {
+    "id": "vinit-singh",
+    "name": "Vinit Singh",
+    "shortName": "Vinit",
+    "role": "Manager & Mentor",
+    "team": "Leadership",
+    "category": "Leadership",
+    "featured": true,
+    "specialQuote": "A true leader doesn't just manage work—they build people and shape careers.",
+    "sharedMemory": "Our guidance discussions, steady advice during demanding project phases, and your belief in my abilities.",
+    "message": [
+      "Working under your leadership has been one of the most transformative chapters of my professional career.",
+      "I have learned an enormous amount from you—not only about technical execution and delivery, but about leadership, handling high-pressure situations with composure, and steering through challenges with clarity.",
+      "Because of your constant mentorship, trust, and constructive guidance, my career has improved significantly and reached new milestones. You gave me opportunities when it mattered most and always encouraged me to step up and excel.",
+      "I will never forget your support, your wisdom, and how you always had my back as a manager. Thank you for everything, Vinit. Wishing you and the team tremendous success ahead."
+    ]
+  },
+  {
+    "id": "yogendra",
+    "name": "Yogendra",
+    "shortName": "Yogendra",
+    "role": "Senior & Key Stakeholder",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "specialQuote": "Wisdom, calm guidance, and senior leadership provide the anchor in demanding times.",
+    "sharedMemory": "Your thoughtful senior mentorship, detailed reviews, and encouraging guidance across our project milestones.",
+    "message": [
+      "Respected Yogendra Sir,",
+      "As I prepare for my next journey, I want to express my sincere respect, humble gratitude, and deep thanks to you for your constant guidance, patience, and support as a senior and key stakeholder.",
+      "I truly appreciate the time and wisdom you invested in guiding me through critical project milestones. Your high standards, constructive feedback, and calm approach have taught me invaluable lessons in professionalism and ownership.",
+      "Thank you so much, Sir, for your kind encouragement and for always being a reliable pillar of support. Wishing you abundant success, good health, and fulfillment in all your upcoming endeavors."
+    ]
+  },
+  {
+    "id": "general-team",
+    "name": "The Entire Team",
+    "shortName": "Everyone",
+    "role": "Colleagues, Mentors & Stakeholders",
+    "team": "The Shared Chapter",
+    "category": "General",
+    "featured": true,
+    "specialQuote": "We walked in as strangers with different backgrounds; we leave with shared memories and lasting respect.",
+    "sharedMemory": "All the team huddles, release celebrations, shared lunches, and quiet moments of collective support.",
+    "message": [
+      "To everyone who shared this journey with me,",
+      "As this chapter closes, I want to express my deepest gratitude to each and every person I crossed paths with. Whether we worked together every single day, collaborated across teams, or simply shared a morning smile in the hallway, your presence shaped my time here.",
+      "Thank you for the patience, the lessons, the debates, the support, and the countless shared memories. Projects will conclude, tickets will be resolved, and systems will evolve—but the people and the relationships we built will stay with me forever.",
+      "Thank you for making this chapter truly unforgettable. Until our paths cross again!"
+    ]
+  }
+]

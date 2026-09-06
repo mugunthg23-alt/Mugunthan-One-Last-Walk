@@ -1,0 +1,6 @@
+{
+  "name": "ONE LAST WALK",
+  "description": "For the people who became part of the journey. Thank you for being part of this chapter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

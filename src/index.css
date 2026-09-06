@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: 'Playfair Display', Georgia, serif;
+    --font-editorial: 'Cormorant Garamond', Garamond, serif;
+    --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #040206;
+    color: #f1f5f9;
+    overflow-x: hidden;
+  }
+}
+
+.font-serif {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+.font-editorial {
+  font-family: 'Cormorant Garamond', Garamond, serif;
+}
+
+.font-sans {
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Subtle Film Grain */
+.bg-grain {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+/* Cinematic Starlight & Nebula Glows */
+.glow-gold-subtle {
+  box-shadow: 0 0 40px -10px rgba(229, 195, 120, 0.15);
+}
+
+.glow-gold-hover:hover {
+  box-shadow: 0 0 30px -5px rgba(229, 195, 120, 0.25);
+}
+
+.glow-nebula-subtle {
+  box-shadow: 0 0 50px -15px rgba(244, 63, 94, 0.18);
+}
+
+/* Smooth custom scrollbars for directory */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #040206;
+}
+::-webkit-scrollbar-thumb {
+  background: #270e1c;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #4a152d;
+}
