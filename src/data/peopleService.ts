@@ -1,7 +1,7 @@
 import defaultPeople from './people.json';
 import { Person } from '../types.ts';
 
-const STORAGE_KEY = 'cinematic_farewell_people_v20';
+const STORAGE_KEY = 'cinematic_farewell_people_v22';
 
 export function sortPeopleAlphabetically(list: Person[]): Person[] {
   return [...list].sort((a, b) => {
