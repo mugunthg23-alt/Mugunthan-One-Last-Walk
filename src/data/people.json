@@ -15,23 +15,6 @@
     ]
   },
   {
-    "id": "ajay-khadke",
-    "name": "Ajay Khadke",
-    "shortName": "Ajay",
-    "role": "Senior & Key Stakeholder",
-    "team": "Business Stakeholders",
-    "category": "Stakeholders",
-    "featured": false,
-    "specialQuote": "Learning from experienced seniors turns every project hurdle into a stepping stone of wisdom.",
-    "sharedMemory": "Your patient guidance, constructive senior advice, and collaborative stakeholder reviews.",
-    "message": [
-      "Respected Ajay Sir,",
-      "As I conclude this chapter, I would like to express my sincere gratitude, respect, and humble thanks to you for all your support, guidance, and encouragement as our senior and key stakeholder.",
-      "I have learned so much from your experience, composed leadership, and thoughtful approach to every challenge. Thank you for always being patient, providing clear direction, and guiding me with warmth and constructive advice throughout our initiatives.",
-      "It has been a true privilege working with you and learning from your vast experience. I wish you grand success, good health, and continued milestones ahead. Thank you sincerely for everything, Sir."
-    ]
-  },
-  {
     "id": "ajay-pandey",
     "name": "Ajay Pandey",
     "shortName": "Ajay",
@@ -560,23 +543,6 @@
     ]
   },
   {
-    "id": "neethu",
-    "name": "Neethu",
-    "shortName": "Neethu",
-    "role": "Key Stakeholder",
-    "team": "Business Stakeholders",
-    "category": "Stakeholders",
-    "featured": false,
-    "specialQuote": "Thoughtful stakeholder collaboration turns complex challenges into seamless victories.",
-    "sharedMemory": "Our cross-functional alignments, clear requirements discussions, and shared sense of accomplishment.",
-    "message": [
-      "Dear Neethu,",
-      "Thank you so much for your exceptional support, partnership, and positive energy as a key stakeholder.",
-      "Your thoughtful inputs, prompt feedback, and supportive attitude made every interaction smooth, constructive, and enjoyable.",
-      "It was a genuine privilege collaborating with you. Wishing you abundant success, fulfillment, and happiness in all your endeavors!"
-    ]
-  },
-  {
     "id": "nihal",
     "name": "Nihal",
     "shortName": "Nihal",
@@ -769,6 +735,23 @@
       "Thank you so much for being a wonderful and valued colleague during our journey together.",
       "Your teamwork, reliable support, and approachable attitude made our collaboration smooth, positive, and productive.",
       "Wishing you abundant success, happiness, and exciting achievements in all your future endeavors!"
+    ]
+  },
+  {
+    "id": "rohit",
+    "name": "Rohit",
+    "shortName": "Rohit",
+    "role": "Product & Functional Stakeholder",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "specialQuote": "Clear product vision, collaborative alignment, and thoughtful requirements make impactful deliveries possible.",
+    "sharedMemory": "Collaborating on product requirements, feature discussions, and aligning user vision with execution.",
+    "message": [
+      "Dear Rohit,",
+      "As I conclude this chapter, I want to express my sincere appreciation and heartfelt thanks to you for your exceptional support and collaboration as a key product partner.",
+      "Working with you on product requirements, feature alignments, and release workflows was always such a smooth and productive experience. Your clarity of vision, practical approach, and balanced feedback made turning complex problem statements into impactful solutions so much easier.",
+      "Thank you for the constructive discussions, positive energy, and great partnership throughout our initiatives. Wishing you massive success, impactful product milestones, and all the very best ahead!"
     ]
   },
   {
@@ -996,6 +979,23 @@
     ]
   },
   {
+    "id": "suresh-gv",
+    "name": "Suresh Gv",
+    "shortName": "Suresh",
+    "role": "Senior & Key Stakeholder",
+    "team": "Business Stakeholders",
+    "category": "Stakeholders",
+    "featured": false,
+    "specialQuote": "Experienced senior leadership and patient wisdom provide the steady anchor for great achievements.",
+    "sharedMemory": "Your valuable senior mentorship, thoughtful guidance during key milestones, and composed leadership.",
+    "message": [
+      "Respected Suresh Sir,",
+      "As I step into my next chapter, I want to express my deepest respect, heartfelt appreciation, and humble gratitude to you for your guidance, support, and senior leadership.",
+      "Having your experienced perspective, calm reassurance, and thoughtful counsel during critical discussions made an immense difference. Your patient approach and wisdom have been a great source of learning and inspiration for me throughout our journey.",
+      "Thank you so much, Sir, for your kindness, trust, and continuous encouragement. Wishing you good health, great happiness, and continued grand milestones ahead!"
+    ]
+  },
+  {
     "id": "suryakanth",
     "name": "Suryakanth",
     "shortName": "Suryakanth",
@@ -1172,23 +1172,6 @@
       "I have learned an enormous amount from you—not only about technical execution and delivery, but about leadership, handling high-pressure situations with composure, and steering through challenges with clarity.",
       "Because of your constant mentorship, trust, and constructive guidance, my career has improved significantly and reached new milestones. You gave me opportunities when it mattered most and always encouraged me to step up and excel.",
       "I will never forget your support, your wisdom, and how you always had my back as a manager. Thank you for everything, Vinit. Wishing you and the team tremendous success ahead."
-    ]
-  },
-  {
-    "id": "yogendra",
-    "name": "Yogendra",
-    "shortName": "Yogendra",
-    "role": "Senior & Key Stakeholder",
-    "team": "Business Stakeholders",
-    "category": "Stakeholders",
-    "featured": false,
-    "specialQuote": "Wisdom, calm guidance, and senior leadership provide the anchor in demanding times.",
-    "sharedMemory": "Your thoughtful senior mentorship, detailed reviews, and encouraging guidance across our project milestones.",
-    "message": [
-      "Respected Yogendra Sir,",
-      "As I prepare for my next journey, I want to express my sincere respect, humble gratitude, and deep thanks to you for your constant guidance, patience, and support as a senior and key stakeholder.",
-      "I truly appreciate the time and wisdom you invested in guiding me through critical project milestones. Your high standards, constructive feedback, and calm approach have taught me invaluable lessons in professionalism and ownership.",
-      "Thank you so much, Sir, for your kind encouragement and for always being a reliable pillar of support. Wishing you abundant success, good health, and fulfillment in all your upcoming endeavors."
     ]
   },
   {
